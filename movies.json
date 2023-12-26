@@ -1,6 +1,6 @@
 {
-  status:true,
-detail:[
+  "status":true,
+"detail":[
     {
         "title":"Recently Watched",
         "movies":[
